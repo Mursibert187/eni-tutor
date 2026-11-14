@@ -2,6 +2,7 @@
   "name": "eni-tutor",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "description": "Self-hosted red-team tutor for a five-tier jailbreaking and prompt-injection curriculum.",
   "type": "module",
   "scripts": {
