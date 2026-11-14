@@ -145,3 +145,7 @@ Read them first, and report the vulnerabilities you find through the provider's 
 
 - Blog and jailbreak articles in the knowledge base: [ijailbreakllms.blog](https://ijailbreakllms.blog)
 - Research summaries cite the original papers. Links are in the library's `Sources` document.
+
+## License
+
+[MIT](LICENSE) © 2026 Mursibert187
